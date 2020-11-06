@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/customer-management-app/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/customer-management-app/static/js/main.dcf3e652.chunk.js",
-    "main.js.map": "/customer-management-app/static/js/main.dcf3e652.chunk.js.map",
-    "runtime-main.js": "/customer-management-app/static/js/runtime-main.d1645754.js",
-    "runtime-main.js.map": "/customer-management-app/static/js/runtime-main.d1645754.js.map",
-    "static/js/2.ed6b94ba.chunk.js": "/customer-management-app/static/js/2.ed6b94ba.chunk.js",
-    "static/js/2.ed6b94ba.chunk.js.map": "/customer-management-app/static/js/2.ed6b94ba.chunk.js.map",
-    "static/js/3.ef2a9483.chunk.js": "/customer-management-app/static/js/3.ef2a9483.chunk.js",
-    "static/js/3.ef2a9483.chunk.js.map": "/customer-management-app/static/js/3.ef2a9483.chunk.js.map",
+    "main.css": "/customer-management-app/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/customer-management-app/static/js/main.92411660.chunk.js",
+    "main.js.map": "/customer-management-app/static/js/main.92411660.chunk.js.map",
+    "runtime-main.js": "/customer-management-app/static/js/runtime-main.cc2a9314.js",
+    "runtime-main.js.map": "/customer-management-app/static/js/runtime-main.cc2a9314.js.map",
+    "static/js/2.547f1681.chunk.js": "/customer-management-app/static/js/2.547f1681.chunk.js",
+    "static/js/2.547f1681.chunk.js.map": "/customer-management-app/static/js/2.547f1681.chunk.js.map",
+    "static/js/3.33b7605a.chunk.js": "/customer-management-app/static/js/3.33b7605a.chunk.js",
+    "static/js/3.33b7605a.chunk.js.map": "/customer-management-app/static/js/3.33b7605a.chunk.js.map",
     "index.html": "/customer-management-app/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/customer-management-app/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.ed6b94ba.chunk.js.LICENSE.txt": "/customer-management-app/static/js/2.ed6b94ba.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/customer-management-app/static/media/logo.103b5fa1.svg"
+    "static/css/main.6dea0f05.chunk.css.map": "/customer-management-app/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.547f1681.chunk.js.LICENSE.txt": "/customer-management-app/static/js/2.547f1681.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d1645754.js",
-    "static/js/2.ed6b94ba.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.dcf3e652.chunk.js"
+    "static/js/runtime-main.cc2a9314.js",
+    "static/js/2.547f1681.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.92411660.chunk.js"
   ]
 }
