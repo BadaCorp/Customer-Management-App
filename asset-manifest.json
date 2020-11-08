@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/customer-management-app/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/customer-management-app/static/js/main.92411660.chunk.js",
-    "main.js.map": "/customer-management-app/static/js/main.92411660.chunk.js.map",
+    "main.js": "/customer-management-app/static/js/main.13faa897.chunk.js",
+    "main.js.map": "/customer-management-app/static/js/main.13faa897.chunk.js.map",
     "runtime-main.js": "/customer-management-app/static/js/runtime-main.cc2a9314.js",
     "runtime-main.js.map": "/customer-management-app/static/js/runtime-main.cc2a9314.js.map",
     "static/js/2.547f1681.chunk.js": "/customer-management-app/static/js/2.547f1681.chunk.js",
@@ -11,12 +11,13 @@
     "static/js/3.33b7605a.chunk.js.map": "/customer-management-app/static/js/3.33b7605a.chunk.js.map",
     "index.html": "/customer-management-app/index.html",
     "static/css/main.6dea0f05.chunk.css.map": "/customer-management-app/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.547f1681.chunk.js.LICENSE.txt": "/customer-management-app/static/js/2.547f1681.chunk.js.LICENSE.txt"
+    "static/js/2.547f1681.chunk.js.LICENSE.txt": "/customer-management-app/static/js/2.547f1681.chunk.js.LICENSE.txt",
+    "static/media/customers.fde0ba20.png": "/customer-management-app/static/media/customers.fde0ba20.png"
   },
   "entrypoints": [
     "static/js/runtime-main.cc2a9314.js",
     "static/js/2.547f1681.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.92411660.chunk.js"
+    "static/js/main.13faa897.chunk.js"
   ]
 }
