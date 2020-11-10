@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/customer-management-app/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/customer-management-app/static/js/main.590c1750.chunk.js",
-    "main.js.map": "/customer-management-app/static/js/main.590c1750.chunk.js.map",
+    "main.js": "/customer-management-app/static/js/main.00d04c9a.chunk.js",
+    "main.js.map": "/customer-management-app/static/js/main.00d04c9a.chunk.js.map",
     "runtime-main.js": "/customer-management-app/static/js/runtime-main.76952410.js",
     "runtime-main.js.map": "/customer-management-app/static/js/runtime-main.76952410.js.map",
     "static/js/2.cf00a87b.chunk.js": "/customer-management-app/static/js/2.cf00a87b.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.76952410.js",
     "static/js/2.cf00a87b.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.590c1750.chunk.js"
+    "static/js/main.00d04c9a.chunk.js"
   ]
 }
